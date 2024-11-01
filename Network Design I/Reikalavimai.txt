@@ -1,0 +1,36 @@
+POP/MDF kambarys yra startas
+
+Adresai:
+186.24.10.0/24
+2029:e77c:30de::/48
+
+Ne mažiau kaip 6 potinkliai su išoriniais IP adresais, kitur galite naudoti vidinius
+Pateikti IP adresus ir potinklio kaukes visiems planuojamiems įrenginiams, dalinant IP adresus kompiuterinėms darbo vietoms (KDV) pakanka nurodyti pirmos ir paskutinės KDV IP adresus
+
+Belaidis tinklas visame MTK
+suplanuoti vaizdo stebėjimo sistemą naudojančią IP kameras  (bent po vieną kamerą auditorijose/dirbtuvėse)
+ACL priemonėmis apribokite pasirinktų centrų ar auditorijų prieigą prie kitų resursų
+
+Serverinėse yra visur pasiekiama WEB svetainė
+
+Išmaniųjų technologijų mokymo centre papildomai turi būti įrengti dūmų, CO2, CO, judesio aptikimo davikliai, o elektronikos dirbtuvėse - temperatūros monitorius bei termostatas. Visi šie įrenginiai turi būti prijungti prie registracijos serverio, kuris įrengtas budėtojų ir apsaugos kambaryje.
+
+
+MTK patalpos yra trijuose pastatuose:
+* Pagrindinis pastatas (MTK)
+	* Pirmas aukštas (dydis 30*50 metrų)
+		* Serverinė su Interneto įvadu (vietiniai web, pašto ir ftp serveriai)
+		* Auditorija (12 KDV)
+		* Auditorija (14 KDV)
+		* Administracija (10 KDV)
+	* Antras aukštas (dydis 30*50 metrų)
+		* Multimedijos mokymo centras (16 KDV)
+		* Dizaino mokymo centras (24 KDV)
+* Egzaminavimo centras (~100 m atstumas nuo MTK)
+	* Testavimo centras (18 KDV)
+* Išmaniųjų technologijų mokymo centras (~1,5 km atstumas nuo MTK)
+	* Dėstytojų kambarys (8 KDV)
+	* Elektronikos dirbtuvės (35 KDV).  
+	* Išmaniųjų technologijų mokymo centro serverinė
+	* Budėtojų ir apsaugos kambarys (3 KDV + IoT registracijos serveris)
+* Konferencijų salė (50x40 metrų, šalia išmaniųjų technologijų mokymo centro, 300 vietų). Čia visur turi veikti bevielis tinklas ir internetas, galima naudoti keletą stotelių). 
